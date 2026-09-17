@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python
+numpy
+scipy
+scikit-learn
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+insightface
+onnxruntime
